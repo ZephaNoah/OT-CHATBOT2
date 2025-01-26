@@ -1,0 +1,33 @@
+{
+    "occupational_therapy": {
+        "books": [
+            "Kielhofner, G. (2009). Conceptual Foundations of Occupational Therapy Practice",
+            "Radomski, M. V., & Trombly Latham, C. A. (2014). Occupational Therapy for Physical Dysfunction",
+            "Creek, J. (2010). The Core Concepts of Occupational Therapy"
+        ],
+        "journals": [
+            "American Journal of Occupational Therapy",
+            "British Journal of Occupational Therapy",
+            "Occupational Therapy International"
+        ],
+        "professional_organizations": [
+            "World Federation of Occupational Therapists",
+            "American Occupational Therapy Association",
+            "Royal College of Occupational Therapists"
+        ]
+    },
+    "pediatric_ot": {
+        "books": [
+            "Case-Smith, J. (2015). Occupational Therapy for Children",
+            "Schaaf, R. C. (2014). Sensory Integration and Pediatric Developmental Disorders",
+            "Schneck, C. M. (2010). Pediatric Occupational Therapy Handbook"
+        ]
+    },
+    "neurological_rehabilitation": {
+        "books": [
+            "Gillen, G. (2018). Stroke Rehabilitation: A Function-Based Approach",
+            "Jenkinson, P. M. (2016). Neurological Rehabilitation",
+            "Behrman, A. L. (2013). Neural Plasticity After Neural Injury"
+        ]
+    }
+}
